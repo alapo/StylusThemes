@@ -3,3 +3,5 @@ This repo is a small collection of some CSS themes I have made for websites that
 
 
 ## ScienceDirect
+
+This was modified from the a StackOverflow theme I liked. Which can be found [here](https://github.com/StylishThemes/StackOverflow-Dark)
